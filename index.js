@@ -20,6 +20,7 @@ isEven(456)
 
 //find the largest number in an array
 let numbers3  = [78, 9, 1, 15, 3, 20]
+let numbers3  = [111, 23, 41, 415, 388, 20]
 
 function findLargestNumber(arr) {
   let max = arr[0]
