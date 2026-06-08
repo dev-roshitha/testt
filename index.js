@@ -30,6 +30,12 @@ let numbers  = [78, 67, 9, 12, 3, 200]
 //but ineed dev function here to fix my bug
 //dev 2 will needs this function
 
+let lateCount = false;
+
+function totolCalculate(income, outgoing){
+  return result = income + outgoing
+}
+
 function findLargestNumber(arr) {
   let max = arr[0]
 
