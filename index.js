@@ -32,6 +32,10 @@ let numbers  = [78, 67, 9, 12, 3, 200]
 
 let lateCount = false;
 
+function totolCalculate(income, outgoing){
+  return result = income + outgoing
+}
+
 function findLargestNumber(arr) {
   let max = arr[0]
 
